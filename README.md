@@ -1,5 +1,7 @@
 # Financial-Performance-Dashboard
+
 Project Overview
+
 This project is a web-based financial analytics dashboard that visualizes monthly financial performance and balance sheet information for multiple companies and cost centers.
 The dashboard is designed to mimic the clean and interactive layout of modern business intelligence tools such as Power BI.
 It enables users to upload financial data in CSV format and instantly generate interactive charts, KPIs, and financial insights.
@@ -69,7 +71,8 @@ Compares companies based on revenue.
 6. Profit Margin Heatmap
 Displays profitability by cost center.
 
-Features
+Features:
+
 Interactive charts using Chart.js
 CSV file upload for dynamic data updates
 Global filters for Month, Company, and Cost Center
