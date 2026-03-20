@@ -94,8 +94,7 @@ Includes:
 - Chart.js
 - PapaParse (CSV parser)
 
-Author
-This project was developed as part of a data analytics and financial modeling portfolio.
+### Author: Jamiu Olamilekan Olaiya
 
 
 
