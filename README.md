@@ -44,7 +44,7 @@ Each row represents a financial record for a specific company, cost center, and 
 ## Dashboard Pages
 
 ### 1. Executive Overview
-   #### High-level financial performance indicators.
+#### High-level financial performance indicators.
 Includes:
 - Total Revenue
 - Net Profit
@@ -78,9 +78,9 @@ Includes:
 - Light and Dark mode toggle
 - Automatic KPI calculations
 
-  ## Live Dashboard
+## Live Dashboard
 Click here to view the dashboard (https://jolamilekan.github.io/Financial-Performance-Dashboard/)
-## Dataset
+### Dataset
 Download CSV (https://github.com/Jolamilekan/Financial-Performance-Dashboard/raw/main/Financials.csv)
 
 ## How to Run the Dashboard:
@@ -98,6 +98,7 @@ Download CSV (https://github.com/Jolamilekan/Financial-Performance-Dashboard/raw
 - JavaScript
 - Chart.js
 - PapaParse (CSV parser)
+- 
 
 ### Author: Jamiu Olamilekan Olaiya
 
