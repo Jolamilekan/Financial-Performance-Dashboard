@@ -80,8 +80,10 @@ Includes:
 
 ## Live Dashboard
 Click here to view the dashboard (https://jolamilekan.github.io/Financial-Performance-Dashboard/)
+
+
 ### Dataset
-Download CSV (https://github.com/Jolamilekan/Financial-Performance-Dashboard/raw/main/Financials.csv)
+Download CSV (https://github.com/Jolamilekan/Financial-Performance-Dashboard/raw/main/financial_dataset.csv)
 
 ## How to Run the Dashboard:
 
