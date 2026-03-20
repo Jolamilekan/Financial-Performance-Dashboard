@@ -30,7 +30,7 @@ The dashboard automatically calculates the following KPIs:
 Revenue
 Total Sales
 
-Net Profit
+# Net Profit
 Sales − COGS − Operating Expenses − Taxes − Depreciation
 
 Gross Margin
