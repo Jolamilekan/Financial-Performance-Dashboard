@@ -104,7 +104,7 @@ Download CSV (https://github.com/Jolamilekan/Financial-Performance-Dashboard/raw
 - JavaScript
 - Chart.js
 - PapaParse (CSV parser)
-- 
+ 
 
 ### Author: Jamiu Olamilekan Olaiya
 
