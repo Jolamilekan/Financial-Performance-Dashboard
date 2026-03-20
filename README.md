@@ -78,6 +78,11 @@ Includes:
 - Light and Dark mode toggle
 - Automatic KPI calculations
 
+  ## Live Dashboard
+Click here to view the dashboard (https://jolamilekan.github.io/Financial-Performance-Dashboard/)
+## Dataset
+Download CSV (https://github.com/Jolamilekan/Financial-Performance-Dashboard/raw/main/Financials.csv)
+
 ## How to Run the Dashboard:
 
 - Download or clone the repository
@@ -96,8 +101,7 @@ Includes:
 
 ### Author: Jamiu Olamilekan Olaiya
 
-## Live Dashboard
-Click here to view the dashboard (https://jolamilekan.github.io/Financial-Performance-Dashboard/)
+
 
 
 
